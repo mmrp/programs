@@ -1,0 +1,11 @@
+map (v, i, a)
+reduce (res, v, i, a)	
+function address() {
+	this.name = null;
+	this.id = null;
+	this.address = null;
+	this.func = function () {
+
+	}
+}
+find -> returns first element which matches the criteria
